@@ -3,5 +3,4 @@ title: Information Security Mind
 description: A blog to share knowledge about information security in all of its aspects.
 
 # Disabling the "View on GitHub" button
-github:
-  is_project_page: false
+is_project_page: false
